@@ -4,4 +4,5 @@ Implementation the landing page with HTML, SCSS, JS according to [Figma design](
 Write tags' classes according BEM methodolosy. Page is adaptive for different screens, has form for sending user's data.
 
 **You can change theme by clicking on the switch button (right top)**
+
 Thanks for your attention :)
